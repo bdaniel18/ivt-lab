@@ -1,0 +1,5 @@
+1.) Megpróbálunk tüzelni (Firing mode: Single) de mind a kettő raktár üres -- sikertelen
+2.) Megpróbálunk tüzelni (Firing mode: Single) 1-es raktárban van 1 rakéta, a 2-es raktár üres -- sikeres
+3.) Megpróbálunk tüzelni (Firing mode: Single) 1-es raktár üres, a 2-es raktár 1 rakéta -- sikertelen
+4.) Megpróbálunk tüzelni (Firing mode: All) 1-es raktárban van 1 rakéta, a 2-es raktár üres -- sikeres
+5.) Megpróbálunk tüzelni (Firing mode: All) de mind a kettő raktár üres -- sikertelen
